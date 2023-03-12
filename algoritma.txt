@@ -1,4 +1,4 @@
-Algoritma: Memasak mie instan
+Algoritma: Memasak instan
 
 1. Mulai
 2. Siapkan mie instan dan air
@@ -15,3 +15,4 @@ Algoritma: Memasak mie instan
 14. Selesai
 
 Tuni Giri Saputri
+Alfa Adriel Monico
