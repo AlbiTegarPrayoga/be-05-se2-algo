@@ -1,0 +1,18 @@
+judul: memasak mie instan
+algoritma :
+        1. Mulai
+        2. Siapkan mie instan, piring, dan panci
+        3. Ambil air menggunakan panci
+        4. Taruh panci di atas kompor
+        5. Nyalakan kompor
+        6. Buka bungkus mie instan
+        7. Buka bumbu mie instan
+        8. Tuangkan bumbu ke piring
+        9. Tunggu air hingga mendidih
+        10. Masukkan mie ke dalam air mendidih
+        11. Tunggu mie hingga matang
+        12. Tiriskan mie
+        13. Masukkan mie ke piring
+        14. Aduk mie hingga rata
+        15. Makan mie
+        16. Selesai
