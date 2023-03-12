@@ -1,0 +1,14 @@
+Algoritma: Memasak mie instan
+
+1. Mulai
+2. Siapkan mie instan dan air
+3. Siapkan panci
+4. Tambahkan air kedalam panci
+5. Masak air hingga mendidih
+6. Masukkan mie instan
+7. Siapkan bumbu mie instan ke wadah piring
+8. Tunggu kurang lebih 3 menit 
+9. Tiriskan mie instan yang direbus ke wadah piring
+10.Aduk rata mie dan bumbu dipiring
+11. Mie siap di makan
+12. Selesai
