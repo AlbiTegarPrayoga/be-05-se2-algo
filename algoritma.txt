@@ -1,4 +1,4 @@
-Algoritma: Memasak mie instan
+Algoritma: Memasak instan
 
 1. Mulai
 2. Siapkan mie instan dan air
@@ -13,3 +13,5 @@ Algoritma: Memasak mie instan
 11. Tambahkan telor kalo mau
 12. Makan
 14. Selesai
+
+Alfa Adriel Monico
