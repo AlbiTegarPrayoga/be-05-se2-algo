@@ -1,7 +1,7 @@
 Algoritma: Memasak instan
 
 1. Mulai
-2. Siapkan mie instan dan air
+2. Siapkan mie instn dan air
 3. Siapkan panci
 4. Tambahkan air kedalam panci
 5. Masak air hingga mendidih
