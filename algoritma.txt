@@ -1,3 +1,5 @@
+judul: memasak mie instan
+algoritma :
 Mulai 
 Siapkan Mie & Panci 
 Tambahkan Air kedalam Panci secukupnya
