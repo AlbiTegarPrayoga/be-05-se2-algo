@@ -17,4 +17,19 @@ Algoritma memasak mie instan
 16. Mie siap dimakan.
 17. Selesai
 
+1. Mulai
+2. Siapkan mie instan dan air
+3. Siapkan panci
+4. Tambahkan air kedalam panci
+5. Masak air hingga mendidih
+6. Masukkan mie instan
+7. Siapkan bumbu mie instan ke wadah piring
+8. Masukan mie ke dalam piring
+9. Aduk rata
+10. Tambahkan nasi kalo mau
+11. Tambahkan telor kalo mau
+12. Makan
+14. Selesai
+
+Tuni Giri Saputri
 Muhammad Sutan Juansyah
