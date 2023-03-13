@@ -1,19 +1,11 @@
-judul: memasak mie instan
-algoritma :
+judul : cara memasak mie instan
 
-Mulai 
-Siapkan Mie & Panci 
-Tambahkan Air kedalam Panci secukupnya
-Hidupkan kompornya
-Taruh panci yang berisi air ke kompor
-Tunggu air sampai memdidih
-setelah air mendidih 
-Masukkan Mie ke dalam panci
-lalu tunggu mie sampai matang
-Masukkan bumbu mie ke dalam mangkuk
-Masukkan mie yang sudah matang ke dalam mangkuk
-Aduk Mie sampai rata
-sajikan
+1. membeli mie instan dan bahan lainnya seperti telur dan sayuran di supermarket
+2. menyiapkan alat seperti panci, sendok dan garpu
+3. panaskan air hingga mendidih 
+4. masukan telur, sayuran dan mie instan ke dalam panci yang berisi air mendidih
+5. tuangkan mie pada mangkok dan beri bumbu yang sudah tersedia di kemasan
+6. mie instan siap disajikan
 
 
 Tuni Giri Saputri
@@ -22,3 +14,4 @@ Alfa Adriel Monico
 Derliana
 Muhammad Sutan Juansyah
 Edwin Samodra Pratama
+
