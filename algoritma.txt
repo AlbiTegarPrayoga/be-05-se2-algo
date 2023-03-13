@@ -1,3 +1,4 @@
+Algoritma: Memasak instan
 Algoritma memasak mie instan
 1. Start
 2. Siapkan Mie instan yang ingin dimasak, bebas merk apa tapi kalau indomie lebih enak
@@ -33,3 +34,4 @@ Algoritma memasak mie instan
 
 Tuni Giri Saputri
 Muhammad Sutan Juansyah
+Alfa Adriel Monico
