@@ -3,3 +3,4 @@
 3. Buat file dgn nama: algoritma.txt
 4. Di dalam file dari step 3, isi dengan algoritma memasak mie instan
 5. Commit and push branch ke remote
+6. Buat PR (pull request) dari branch nama-mentee ke branch utama (main)
