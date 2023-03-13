@@ -1,0 +1,15 @@
+Algoritma Masak Mie Instan By Ryzal Aldi
+
+1. Mulai
+2. Menuju dapur
+3. Menyiapkan mie instan, piring, panci, air
+4. Menyiapkan panci dan mengisinya dengan air
+5. Menyalakan kompor
+7. Memasak air sampai mendidih
+8. Jika sudah mendidih buka bungkus mie dan keluarkan bumbu, lalu memasukkan mie
+9. Menunggu mie sampai matang
+10. Sambil menunggu mie mataang, menyiapkan bumbu mie instan ke piring
+11. Jika mie sudah matang, maka tiriskan dan masukkan mie pada piring
+12. Aduk mie dan bumbunya
+13. Mie siap disajikan.
+14. Selesai
