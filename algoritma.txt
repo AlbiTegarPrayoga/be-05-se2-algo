@@ -1,5 +1,4 @@
-Algoritma: Memasak instan
-
+Cara Memasak Mie Instan
 1. Mulai
 2. Siapkan mie instn dan air
 3. Siapkan panci
@@ -14,6 +13,14 @@ Algoritma: Memasak instan
 12. Makan
 14. Selesai
 
+Fuad Zaidan Najib
+    BIMA SADEWA
 Tuni Giri Saputri
 Alfa Adriel Monico
 febri gustianingsih
+Manda Ramadhanti
+Muhammad Sutan Juansyah
+Alfa Adriel Monico
+Derliana
+Muhammad Sutan Juansyah
+Edwin Samodra Pratama
