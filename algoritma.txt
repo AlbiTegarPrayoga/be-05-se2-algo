@@ -1,5 +1,6 @@
 judul: memasak mie instan
 algoritma :
+
 Mulai 
 Siapkan Mie & Panci 
 Tambahkan Air kedalam Panci secukupnya
@@ -13,3 +14,11 @@ Masukkan bumbu mie ke dalam mangkuk
 Masukkan mie yang sudah matang ke dalam mangkuk
 Aduk Mie sampai rata
 sajikan
+
+
+Tuni Giri Saputri
+Muhammad Sutan Juansyah
+Alfa Adriel Monico
+Derliana
+Muhammad Sutan Juansyah
+Edwin Samodra Pratama
