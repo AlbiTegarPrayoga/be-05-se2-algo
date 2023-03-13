@@ -1,17 +1,23 @@
-judul : cara memasak mie instan
+Algoritma: Memasak mie instan
 
-1. membeli mie instan dan bahan lainnya seperti telur dan sayuran di supermarket
-2. menyiapkan alat seperti panci, sendok dan garpu
-3. panaskan air hingga mendidih 
-4. masukan telur, sayuran dan mie instan ke dalam panci yang berisi air mendidih
-5. tuangkan mie pada mangkok dan beri bumbu yang sudah tersedia di kemasan
-6. mie instan siap disajikan
+1. Mulai
+2. Siapkan mie instan dan air
+3. Siapkan panci
+4. Tambahkan air kedalam panci
+5. Masak air hingga mendidih
+6. Masukkan mie instan
+7. Siapkan bumbu mie instan ke wadah piring
+8. Masukan mie ke dalam piring
+9. Aduk rata
+10. Tambahkan nasi kalo mau
+11. Tambahkan telor kalo mau
+12. Makan
+14. Selesai
 
-
+    BIMA SADEWA
 Tuni Giri Saputri
 Muhammad Sutan Juansyah
 Alfa Adriel Monico
 Derliana
 Muhammad Sutan Juansyah
 Edwin Samodra Pratama
-
