@@ -1,7 +1,5 @@
 Algoritma: Memasak mie instan
 
-
-
 1. Mulai
 2. Siapkan Mie Instan
 3. Siapkan panci dan masukkan air secukupnya ke dalamnya.
@@ -17,3 +15,15 @@ Algoritma: Memasak mie instan
 
 
 Albi
+Muhammad Lintang Panjerino
+Fuad Zaidan Najib
+    BIMA SADEWA
+Tuni Giri Saputri
+Alfa Adriel Monico
+febri gustianingsih
+Manda Ramadhanti
+Muhammad Sutan Juansyah
+Alfa Adriel Monico
+Derliana
+Muhammad Sutan Juansyah
+Edwin Samodra Pratama
